@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
- umesh Uchai
->>>>>>> conflict1
+ umesh Uchai 2nd semester
